@@ -123,8 +123,8 @@ ADMIRAL</role></castItem>
 <castItem type="role"><role id="ples">PLESHE</role></castItem>
 <castItem type="role"><role id="bart">BARTUS</role></castItem>
 <castItem type="role"><role>TWO LORDS OF POLAND</role></castItem>
-<castItem type="role"><role id="lor1"></role></castItem>
-<castItem type="role"><role id="lor2"></role></castItem>
+<castItem type="role"><role id="lor1">Lord 1</role></castItem>
+<castItem type="role"><role id="lor2">Lord 2</role></castItem>
 <castItem type="role"><role id="gonz">GONZAGO</role></castItem>
 <castItem type="role"><role id="rete">RETES</role></castItem>
 <castItem type="role"><role id="moun">MOUNTSORRELL</role></castItem>
@@ -144,15 +144,15 @@ preacher</roleDesc></castItem>
 <castItem type="list">Captain of the Guard, Protestants, Schoolmasters, 
 Soldiers,
 Murderers, Attendants, &amp;c.</castItem>
-<castItem type="role"><role id="murd1"></role></castItem>
-<castItem type="role"><role id="murd2"></role></castItem>
-<castItem type="role"><role id="murd3"></role></castItem>
-<castItem type="role"><role id="adman"></role></castItem>
-<castItem type="role"><role id="capt"></role></castItem>
-<castItem type="role"><role id="sold"></role></castItem>
-<castItem type="role"><role id="prot"></role></castItem>
-<castItem type="role"><role id="maid"></role></castItem>
-<castItem type="role"><role id="mess"></role></castItem>
+<castItem type="role"><role id="murd1">Murderer 1</role></castItem>
+<castItem type="role"><role id="murd2">Murderer 2</role></castItem>
+<castItem type="role"><role id="murd3">Murderer 3</role></castItem>
+<castItem type="role"><role id="adman">Admirall</role></castItem>
+<castItem type="role"><role id="capt">Captain</role></castItem>
+<castItem type="role"><role id="sold">Soldier</role></castItem>
+<castItem type="role"><role id="prot">Protestant</role></castItem>
+<castItem type="role"><role id="maid">Maid</role></castItem>
+<castItem type="role"><role id="mess">Messenger</role></castItem>
 <castItem type="role"><role id="quee">CATHERINE</role>,<roleDesc>the Queen 
 Mother of France</roleDesc></castItem>
 <castItem type="role"><role id="marg">MARGARET</role>,<roleDesc>her daughter, 

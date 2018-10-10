@@ -130,17 +130,17 @@ Added revisionDesc
 <castItem type="role"><role id="olym">OLYMPIA</role>, <roleDesc>wife to Captain of Balsera</roleDesc></castItem>
 <castItem type="list">Turkish Concubines.]</castItem>
 <castGroup>
-<castItem type="role"><role id="phis1"></role></castItem>
-<castItem type="role"><role id="phis2"></role></castItem>
-<castItem type="role"><role id="cit1"></role></castItem>
-<castItem type="role"><role id="cit2"></role></castItem>
-<castItem type="role"><role id="sold"></role></castItem>
-<castItem type="role"><role id="mess"></role></castItem>
-<castItem type="role"><role id="ladi"></role></castItem>
-<castItem type="role"><role id="soul"></role></castItem>
-<castItem type="role"><role id="pion"></role></castItem>
-<castItem type="role"><role id="perd"></role></castItem>
-<castItem type="role"><role id="maxi"></role></castItem>
+<castItem type="role"><role id="phis1">Phisitian 1</role></castItem>
+<castItem type="role"><role id="phis2">Phisitian 2</role></castItem>
+<castItem type="role"><role id="cit1">Citizen 1</role></castItem>
+<castItem type="role"><role id="cit2">Citizen 2</role></castItem>
+<castItem type="role"><role id="sold">Soldier</role></castItem>
+<castItem type="role"><role id="mess">Messenger</role></castItem>
+<castItem type="role"><role id="ladi">Ladies</role></castItem>
+<castItem type="role"><role id="soul">Souldiers</role></castItem>
+<castItem type="role"><role id="pion">Pioners</role></castItem>
+<castItem type="role"><role id="perd">Perdicas</role></castItem>
+<castItem type="role"><role id="maxi">Maximus</role></castItem>
 </castGroup>
 </castList>
 </div>

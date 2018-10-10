@@ -185,12 +185,12 @@ service I can, to the advauncing and pleasuring of your excellent degree.</p>
 <castItem type="role"><role id="capo">CAPOLIN</role><roleDesc>an Egyptian</roleDesc></castItem>
 <castItem type="role"><role id="phil">PHILEMUS</role><roleDesc>a Messenger</roleDesc></castItem>
 <castItem type="list">Bassoes, Lords, Citizens, Moors, Soldiers, and Attendants</castItem>
-<castItem type="role"><role id="atte"></role></castItem>
-<castItem type="role"><role id="vir1"></role></castItem>
-<castItem type="role"><role id="vir2"></role></castItem>
-<castItem type="role"><role id="mess"></role></castItem>
-<castItem type="role"><role id="bass"></role></castItem>
-<castItem type="role"><role id="spy"></role></castItem>
+<castItem type="role"><role id="atte">Attendant</role></castItem>
+<castItem type="role"><role id="vir1">Man 1</role></castItem>
+<castItem type="role"><role id="vir2">Man 2</role></castItem>
+<castItem type="role"><role id="mess">Messenger</role></castItem>
+<castItem type="role"><role id="bass">Bassoe</role></castItem>
+<castItem type="role"><role id="spy">Spy</role></castItem>
 <castItem type="role"><role id="zeno">ZENOCRATE</role><roleDesc>daughter to the Soldan of Egypt</roleDesc></castItem>
 <castItem type="role"><role id="anip">ANIPPE</role>, <roleDesc>her maid</roleDesc></castItem>
 <castItem type="role"><role id="zabi">ZABINA</role><roleDesc>wife to Bajazeth</roleDesc></castItem>

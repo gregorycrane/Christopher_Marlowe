@@ -232,9 +232,9 @@ Admiral</roleDesc></castItem>
 <castItem type="role"><role id="carp">Carpenter</role></castItem>
 <castItem type="role"><role id="serv">Servant</role></castItem>
 
-<castItem type="role"><role id="slav"></role></castItem>
-<castItem type="role"><role id="offi"></role></castItem>
-<castItem type="role"><role id="bass"></role></castItem>
+<castItem type="role"><role id="slav">Slave</role></castItem>
+<castItem type="role"><role id="offi">Officer</role></castItem>
+<castItem type="role"><role id="bass">Basso</role></castItem>
 
 <castItem type="list">BASHAWS</castItem>
 

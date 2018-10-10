@@ -129,7 +129,7 @@ Added to repository.
 <castItem type="role"><role id="anna">ANNA</role>, <roleDesc>her sister</roleDesc></castItem>
 <castItem type="role"><role id="nurs">Nurse</role></castItem>
 <castItem type="list">Trojan soldiers, Carthaginian Lords, servants.]</castItem>
-<castItem type="role"><role id="lord"></role></castItem>
+<castItem type="role"><role id="lord">Lord</role></castItem>
 </castList>
 </div>
 </front>
