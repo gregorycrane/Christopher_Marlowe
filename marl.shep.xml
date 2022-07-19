@@ -10,10 +10,10 @@
 <titleStmt>
 <title>The Passionate Shepherd to His Love</title>
 <author>Christopher Marlowe</author>
-&responsibility;
-&fund.Tufts;
+<!-- &responsibility; -->
+<!-- &fund.Tufts; -->
 </titleStmt>
-&Perseus.publish;
+<!-- &Perseus.publish; -->
 <sourceDesc><bibl></bibl></sourceDesc>
 </fileDesc>
 
@@ -214,7 +214,7 @@ Added to repository. Passed SGML parse.
 </app> Lambes we pull,</l>
 <l><app>
 <lem>Fayre lined slippers</lem>
-<rdg wit="W F">Slippers lin'd choicely</rdg> 
+<rdg wit="W F">Slippers lin'd choicely</rdg>
 <rdg wit="Bd">And shoes lin'd choicely</rdg>
 </app>for the cold:</l>
 <l>With buckles of the purest gold.</l>
@@ -238,8 +238,7 @@ Added to repository. Passed SGML parse.
 <lem>Come</lem>
 <rdg wit="PP A T Rs">Then</rdg>
 <rdg wit="Bd">To</rdg>
-</app>
- live with mee, and be my love.<app>
+</app> live with mee, and be my love.<app>
 <rdg wit="Rx"><lacunaEnd/></rdg>
 </app></l><!--
 <L N="20.1"><app>
